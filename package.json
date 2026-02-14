@@ -1,0 +1,17 @@
+{
+    "name": "towordsjannah",
+    "version": "1.0.0",
+    "description": "Valentine Special Project - Towards Jannah",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve -s .",
+        "build": "echo 'Static site, no build needed'",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "serve": "^14.2.4"
+    }
+}
